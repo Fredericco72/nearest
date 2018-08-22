@@ -1,100 +1,101 @@
-5 Church Mews, Warwick Rd, Kineton, Warwick CV35 0HN, UK
-1 Church Ln, Norwich NR14, UK
-3 The Avenue, Ickenham, Uxbridge UB10 8NR, UK
-Hyde Ct, London N20, UK
-18 Minley Ave, Birmingham B17 8RP, UK
-6 Heol Elli, Llanelli SA15 1LX, UK
-3 Kennedy Ave, Huddersfield HD2 2HH, UK
-49 Brakefield, South Brent TQ10 9PA, UK
-21 Leadburn Rd, Glasgow G21 3HR, UK
-4 Garton Grove, Grimsby DN32 9TF, UK
-1 The Crescent, Canterbury CT2 7AG, UK
-34 Luton-Dunstable Busway, Dunstable, Caddington, Luton LU1 4AZ, UK
-45 Lucy Ln S, Stanway, Colchester CO3 0HY, UK
-120 A830, Lochailort PH38 4NA, UK
-4 Bryn Gwylan, Aberdovey LL35 0LF, UK
-120 Burcott Rd, Bristol BS11 8AD, UK
-376 Higginshaw Ln, Royton, Oldham OL2 6HQ, UK
-98 Stanley St, Grimsby DN32 7LN, UK
-48 Lyndale Dr, Wolverhampton WV11 3JL, UK
-18 Highfield Ave, High Wycombe HP12 4DY, UK
-58 Trispen Cl, Liverpool L26 7YP, UK
-Thorn Ln, Canterbury CT4, UK
-5 Thorn Grove, Penarth CF64 5BZ, UK
-16A South Way, Newhaven BN9 9LL, UK
-Tam Oshanters Cottage, 1 Shanters Houses, Lambley, Brampton CA8 7LG, UK
-16 Squirrel Walk, Overseal, Swadlincote DE12 6NP, UK
-B6355, Tranent EH34 5AU, UK
-15 Parkend Walk, Sling, Coleford GL16 8JJ, UK
-125 Northgate, Hartlepool TS24 0LZ, UK
-1 Myrtle Ave, Williamson St, Hull HU9 1ES, UK
-4 Roman Way, Kingsnorth, Ashford TN23 3ND, UK
-145 College Rd, Cardiff CF14 2NS, UK
-19 Sandfield Cl, Liverpool L12, UK
-149A Newton St, Millom LA18 4DT, UK
-31 Horace Rd, Ilford IG6 2BG, UK
-B8018, Isle of Islay PA49 7UU, UK
-2-3 Printers Way, Harlow CM20 2SD, UK
-Nelson Park Rd, St Margaret's at Cliffe, Dover CT15, UK
-2 Putney Cl, Oldham OL1 2JS, UK
-35 Stourton Rd, Witham CM8 2EZ, UK
-46 Nant Bychan, Moelfre LL72 8HE, UK
-5 The Cliffs, Cheddar BS27 3QE, UK
-5 Mount Pleasant, Scalby, Scarborough YO13 0RR, UK
-68 Thorney Bay Rd, Canvey Island SS8 0HQ, UK
-45 Parliament St, Morecambe LA3 1RH, UK
-1A Titchfield Rd, Troon KA10 6AN, UK
-3 Skitby Rd, Smithfield, Kirklinton, Carlisle CA6 6AY, UK
-Rigby St, Liverpool L3, UK
-14 Fullerian Cres, Watford WD18 7AN, UK
-26 Darnaway St, Glasgow G33 5HP, UK
-4 Northern Terrace, Llwyngwril LL37 2JX, UK
-22 Perwinnes Brae, Aberdeen AB23 8BJ, UK
-2 Church St, Nonington, Dover CT15 4LE, UK
-2 Bawdley Head, Fraserburgh AB43 9SE, UK
-A157, Alford LN13, UK
-124C Main Rd, Newport, Brough HU15 2RG, UK
-29 Weston Bank Cl, Weston-under-Lizard, Shifnal TF11 8JT, UK
-11 Main St, Kirkliston EH29 9BS, UK
-1 Runnymede, Sunderland SR2 0BL, UK
-4 Red Oaks Dr, Park Gate, Southampton SO31 1DG, UK
-8 Bury Farm Cl, Slapton, Leighton Buzzard LU7 9DS, UK
-7 The Knowlings, Whitchurch RG28 7JW, UK
-168 A59, Ormskirk L39, UK
-127 Oak Rd, Redcar TS10 3RG, UK
-97 Heaton Rd, Newcastle upon Tyne NE6 5HJ, UK
-Unnamed Road, Narberth SA67 8BJ, UK
-Rose Cottage, 8 The Square, Stainforth, Settle BD24 9PL, UK
-60A Nunhead Ln, London SE15 3QE, UK
-1A Trinity Pl, Leven KY8 4NY, UK
-38 Factory Ln, Croydon CR0 3RL, UK
-51 Heronsgate Rd, Chorleywood, Rickmansworth WD3 5BA, UK
-1 Ridgemount Cl, Brockworth, Gloucester GL3 4EJ, UK
-5 Seaforth Pl, Westminster, London SW1E 6AB, UK
-3 Goodwood Rd, Eastleigh SO50 4NT, UK
-2007 Stockwith Rd, Gainsborough DN21 3DF, UK
-30 Dakota Rd, Nottingham NG13 8ZY, UK
-2 Cranwood Rd, Tittensor, Stoke-on-Trent ST12, UK
-16 Versailles, Newhaven BN9 9LJ, UK
-16 Park Rd, Thornbury, Bristol BS35 1HN, UK
-3 Henny Rd, Lamarsh, Bures CO8 5ET, UK
-3 Beck Hill, Market Rasen LN8 3XS, UK
-9 Yr Ynys, North Cornelly, Bridgend CF33 4NH, UK
-2 Almeida St, London N1 1TA, UK
-59 Old Greenock Rd, Inchinnan, Renfrew PA4 9PH, UK
-3 Water St, Great Harwood, Blackburn BB6 7QR, UK
-54-56 Gospelgate, Louth LN11 9JZ, UK
-Low Ln, Skegness PE24, UK
-62 Mead Vale, Weston-super-Mare BS22 8RR, UK
-2 Hob Ln, Huddersfield HD4 5NY, UK
-3 Vesty Rd, Bootle L30 1NY, UK
-56A Warbreck Hill Rd, Blackpool FY2 9UG, UK
-Bridgewater Way, Stretford, Manchester M17 1AB, UK
-6 Cedars Grove, Bargeddie, Glasgow G69 7UE, UK
-Merthyrmawr Rd, Bridgend CF32 0LR, UK
-6 Margam Row, Kenfig Hill, Bridgend CF33 6DP, UK
-2 Moy Mains, Moy, Tomatin, Inverness IV13 7YG, UK
-10 Manor Rd, Wales, Sheffield S26 5PD, UK
-1 Haydock Walk, Chadderton, Oldham OL9 6PG, UK
-23 Victoria Ave, Brandon IP27 0JA, UK
-63 Pottergate, Norwich NR2 1DY, UK
+Latitude,Longitude,Address
+52.1568755603,-1.51181399534,5 Church Mews//Warwick Rd//Kineton//Warwick CV35 0HN//UK
+52.7143907375,1.38762921682,1 Church Ln//Norwich NR14//UK
+51.565157655,-0.449392214785,3 The Avenue//Ickenham//Uxbridge UB10 8NR//UK
+51.6256427832,-0.170544561796,Hyde Ct//London N20//UK
+52.4664106534,-1.97703099662,18 Minley Ave//Birmingham B17 8RP//UK
+51.6798909382,-4.14887170662,6 Heol Elli//Llanelli SA15 1LX//UK
+53.678495128,-1.78896144194,3 Kennedy Ave//Huddersfield HD2 2HH//UK
+50.4220694619,-3.82887348778,49 Brakefield//South Brent TQ10 9PA//UK
+55.8826597403,-4.20639078441,21 Leadburn Rd//Glasgow G21 3HR//UK
+53.5554676543,-0.0676799127283,4 Garton Grove//Grimsby DN32 9TF//UK
+51.2933790769,1.07853589404,1 The Crescent//Canterbury CT2 7AG//UK
+51.8675733995,-0.452108425494,34 Luton-Dunstable Busway//Dunstable//Caddington//Luton LU1 4AZ//UK
+51.8881114451,0.834897614153,45 Lucy Ln S//Stanway//Colchester CO3 0HY//UK
+56.8804166196,-5.68295158511,120 A830//Lochailort PH38 4NA//UK
+52.9328394694,-4.54700541327,4 Bryn Gwylan//Aberdovey LL35 0LF//UK
+51.5179464097,-2.6837346582,120 Burcott Rd//Bristol BS11 8AD//UK
+53.5564442437,-2.10455381173,376 Higginshaw Ln//Royton//Oldham OL2 6HQ//UK
+53.5702698283,-0.0629340314906,98 Stanley St//Grimsby DN32 7LN//UK
+52.6021910974,-2.06684278847,48 Lyndale Dr//Wolverhampton WV11 3JL//UK
+51.621726125,-0.78839567765,18 Highfield Ave//High Wycombe HP12 4DY//UK
+53.3670336686,-2.83335561515,58 Trispen Cl//Liverpool L26 7YP//UK
+51.1805403817,1.04915777105,Thorn Ln//Canterbury CT4//UK
+51.4230533319,-3.17357311757,5 Thorn Grove//Penarth CF64 5BZ//UK
+50.7929433184,0.0478609449384,16A South Way//Newhaven BN9 9LL//UK
+54.921057,-2.522492,Tam Oshanters Cottage//1 Shanters Houses//Lambley//Brampton CA8 7LG//UK
+52.7319942213,-1.56340124635,16 Squirrel Walk//Overseal//Swadlincote DE12 6NP//UK
+55.9050405079,-2.84901842044,B6355//Tranent EH34 5AU//UK
+51.7689613577,-2.60502954071,15 Parkend Walk//Sling//Coleford GL16 8JJ//UK
+54.6986933621,-1.18628875718,125 Northgate//Hartlepool TS24 0LZ//UK
+53.7479273316,-0.318204154757,1 Myrtle Ave//Williamson St//Hull HU9 1ES//UK
+51.1228157823,0.872192052661,4 Roman Way//Kingsnorth//Ashford TN23 3ND//UK
+51.5055430024,-3.21782483534,145 College Rd//Cardiff CF14 2NS//UK
+53.4217744626,-2.90206022895,19 Sandfield Cl//Liverpool L12//UK
+54.2085127905,-3.26104990251,149A Newton St//Millom LA18 4DT//UK
+51.5897825685,0.0784001841681,31 Horace Rd//Ilford IG6 2BG//UK
+55.7963539136,-6.37063042586,B8018//Isle of Islay PA49 7UU//UK
+51.7883727582,0.117775237645,2-3 Printers Way//Harlow CM20 2SD//UK
+51.1673265,1.37501325,Nelson Park Rd//St Margaret's at Cliffe//Dover CT15//UK
+53.5532820105,-2.11917557191,2 Putney Cl//Oldham OL1 2JS//UK
+51.8045564991,0.630531678448,35 Stourton Rd//Witham CM8 2EZ//UK
+53.0717818386,-3.11190911673,46 Nant Bychan//Moelfre LL72 8HE//UK
+51.281320986,-2.77025779233,5 The Cliffs//Cheddar BS27 3QE//UK
+54.3007420483,-0.450205090045,5 Mount Pleasant//Scalby//Scarborough YO13 0RR//UK
+51.5180509784,0.574412605533,68 Thorney Bay Rd//Canvey Island SS8 0HQ//UK
+54.0645366255,-2.88158834311,45 Parliament St//Morecambe LA3 1RH//UK
+55.5421541394,-4.66920170906,1A Titchfield Rd//Troon KA10 6AN//UK
+54.9800153092,-2.87441874177,3 Skitby Rd//Smithfield//Kirklinton//Carlisle CA6 6AY//UK
+53.4106485926,-2.9945923149,Rigby St//Liverpool L3//UK
+51.6569164859,-0.41686676576,14 Fullerian Cres//Watford WD18 7AN//UK
+55.8765430496,-4.14595500326,26 Darnaway St//Glasgow G33 5HP//UK
+52.981056,-3.37858911815,4 Northern Terrace//Llwyngwril LL37 2JX//UK
+57.2041346058,-2.10388501975,22 Perwinnes Brae//Aberdeen AB23 8BJ//UK
+51.2252446459,1.22526443836,2 Church St//Nonington//Dover CT15 4LE//UK
+57.6966632228,-2.0199504393,2 Bawdley Head//Fraserburgh AB43 9SE//UK
+53.3254090386,0.125930562321,A157//Alford LN13//UK
+53.7631625346,-0.697297584627,124C Main Rd//Newport//Brough HU15 2RG//UK
+52.6958387538,-2.29678168105,29 Weston Bank Cl//Weston-under-Lizard//Shifnal TF11 8JT//UK
+55.9562574316,-3.4041647369,11 Main St//Kirkliston EH29 9BS//UK
+54.8717800445,-1.38412350159,1 Runnymede//Sunderland SR2 0BL//UK
+50.8727124853,-1.262236689,4 Red Oaks Dr//Park Gate//Southampton SO31 1DG//UK
+51.8778591963,-0.645482504592,8 Bury Farm Cl//Slapton//Leighton Buzzard LU7 9DS//UK
+51.2255792819,-1.3325897802,7 The Knowlings//Whitchurch RG28 7JW//UK
+53.591931779,-2.84977128904,168 A59//Ormskirk L39//UK
+54.6063890039,-1.04218014584,127 Oak Rd//Redcar TS10 3RG//UK
+54.983382898,-1.58184848148,97 Heaton Rd//Newcastle upon Tyne NE6 5HJ//UK
+51.780822,-4.843133,Unnamed Road//Narberth SA67 8BJ//UK
+53.7960038896,-1.81446018345,Rose Cottage//8 The Square//Stainforth//Settle BD24 9PL//UK
+51.4642617674,-0.0603921532268,60A Nunhead Ln//London SE15 3QE//UK
+56.1934347865,-2.99764258395,1A Trinity Pl//Leven KY8 4NY//UK
+51.3776048704,-0.113621943073,38 Factory Ln//Croydon CR0 3RL//UK
+51.646997772,-0.528893166916,51 Heronsgate Rd//Chorleywood//Rickmansworth WD3 5BA//UK
+51.8464694264,-2.15945910401,1 Ridgemount Cl//Brockworth//Gloucester GL3 4EJ//UK
+51.4981784614,-0.136896142439,5 Seaforth Pl//Westminster//London SW1E 6AB//UK
+50.9773738751,-1.36790863006,3 Goodwood Rd//Eastleigh SO50 4NT//UK
+53.4296546948,-0.815842556188,2007 Stockwith Rd//Gainsborough DN21 3DF//UK
+52.9627821605,-0.973859164859,30 Dakota Rd//Nottingham NG13 8ZY//UK
+52.9410775544,-2.19184318817,2 Cranwood Rd//Tittensor//Stoke-on-Trent ST12//UK
+50.79219,0.0487585,16 Versailles//Newhaven BN9 9LJ//UK
+51.6138310602,-2.52763561538,16 Park Rd//Thornbury//Bristol BS35 1HN//UK
+51.9916112795,0.750043779713,3 Henny Rd//Lamarsh//Bures CO8 5ET//UK
+53.4014295753,-0.259784958186,3 Beck Hill//Market Rasen LN8 3XS//UK
+51.5253437773,-3.7015729979,9 Yr Ynys//North Cornelly//Bridgend CF33 4NH//UK
+51.5395625035,-0.103450521092,2 Almeida St//London N1 1TA//UK
+55.8913639456,-4.43749926119,59 Old Greenock Rd//Inchinnan//Renfrew PA4 9PH//UK
+53.7864005851,-2.40483129106,3 Water St//Great Harwood//Blackburn BB6 7QR//UK
+53.364904443,-0.00918266569778,54-56 Gospelgate//Louth LN11 9JZ//UK
+53.1509002842,0.238357195195,Low Ln//Skegness PE24//UK
+51.3523269121,-2.93432720592,62 Mead Vale//Weston-super-Mare BS22 8RR//UK
+53.6302786182,-1.82341207097,2 Hob Ln//Huddersfield HD4 5NY//UK
+53.4721108613,-2.96249718971,3 Vesty Rd//Bootle L30 1NY//UK
+53.834598244,-3.04869074201,56A Warbreck Hill Rd//Blackpool FY2 9UG//UK
+53.4551062041,-2.30628970588,Bridgewater Way//Stretford//Manchester M17 1AB//UK
+55.8593865,-4.07284425,6 Cedars Grove//Bargeddie//Glasgow G69 7UE//UK
+51.488133,-3.600323,Merthyrmawr Rd//Bridgend CF32 0LR//UK
+51.5335062698,-3.67713394851,6 Margam Row//Kenfig Hill//Bridgend CF33 6DP//UK
+57.4567810572,-4.22404100929,2 Moy Mains//Moy//Tomatin//Inverness IV13 7YG//UK
+53.3424516315,-1.28320832104,10 Manor Rd//Wales//Sheffield S26 5PD//UK
+53.544681,-2.13628725,1 Haydock Walk//Chadderton//Oldham OL9 6PG//UK
+52.4453659742,0.618157867304,23 Victoria Ave//Brandon IP27 0JA//UK
+52.6303729906,1.28955384208,63 Pottergate//Norwich NR2 1DY//UK
